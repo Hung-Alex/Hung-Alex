@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hung-Alex</h1>
 
-
-
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="img" width="100%" height="100%">
 <p align="left">
 </p>
 
